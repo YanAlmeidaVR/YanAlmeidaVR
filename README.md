@@ -21,12 +21,19 @@ Busco evoluir constantemente em **Java, Spring Boot, bancos de dados e arquitetu
 🧠 **O que eu faço**
 
 🧩 Desenvolvimento backend com **Java**
+
 🏗️ Construção de **APIs REST**
+
 📐 Aplicação de princípios de **POO e Clean Code**
+
 🔐 Autenticação, autorização e segurança em nível introdutório
+
 🗄️ Integração com bancos de dados relacionais
+
 🐳 Noções de Docker e deploy
-🐍 **Desenvolvimento com Python para scripts utilitários e apoio a sistemas backend**
+
+🐍 Desenvolvimento com Python para scripts utilitários e apoio a sistemas backend
+
 🎓 Aprendizado contínuo e projetos acadêmicos/práticos
 
 ---
