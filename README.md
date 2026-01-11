@@ -1,5 +1,4 @@
 ## Olá 👋, eu sou Yan Almeida
-
 **Estudante de Engenharia de Software | Backend Developer em formação (Java)**
 
 Sou estudante de Engenharia de Software no Inatel, com foco em desenvolvimento backend, arquitetura de sistemas e boas práticas de código. Tenho interesse em construir APIs escaláveis, sistemas bem estruturados e soluções orientadas a negócio.
@@ -8,76 +7,60 @@ Busco evoluir constantemente em **Java, Spring Boot, bancos de dados e arquitetu
 
 ---
 
-🌐 **Onde me encontrar**
+## 🧠 O que eu faço
 
-<p align="left">  
-  <a href="https://www.linkedin.com/in/yandealmeida">  
-    <img src="https://img.shields.io/badge/LinkedIn-Yan%20Almeida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />  
-  </a>  
-</p>
-
----
-
-🧠 **O que eu faço**
-
-🧩 Desenvolvimento backend com **Java**
-
-🏗️ Construção de **APIs REST**
-
-📐 Aplicação de princípios de **POO e Clean Code**
-
-🔐 Autenticação, autorização e segurança em nível introdutório
-
-🗄️ Integração com bancos de dados relacionais
-
-🐳 Noções de Docker e deploy
-
-🐍 Desenvolvimento com Python para scripts utilitários e apoio a sistemas backend
-
-🎓 Aprendizado contínuo e projetos acadêmicos/práticos
+- 🧩 Desenvolvimento backend com Java  
+- 🏗️ Construção de APIs REST  
+- 📐 Aplicação de princípios de POO e Clean Code  
+- 🔐 Autenticação, autorização e segurança em nível introdutório  
+- 🗄️ Integração com bancos de dados relacionais  
+- 🐳 Noções de Docker e deploy  
+- 🐍 Desenvolvimento com Python para scripts utilitários e apoio a sistemas backend  
+- 🎓 Aprendizado contínuo e projetos acadêmicos/práticos  
 
 ---
 
 ## 🛠 Stack Tecnológica
 
 ### ⚙️ Backend
+- Java  
+- Spring Boot  
+- JPA / Hibernate  
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge\&logo=java\&logoColor=white)
-
-### 🐍 Python (Desenvolvimento)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+### 🐍 Python
+- Python (scripts e suporte a sistemas backend)
 
 ### 🗄 Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+- PostgreSQL  
+- MySQL  
 
 ### 🧰 Ferramentas & DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<img src="./github-status.png" alt="GitHub Stats" width="400" />
+- Git  
+- Docker  
+- Postman  
+- IntelliJ IDEA  
 
 ---
 
-🚀 **Objetivo Profissional**
+## 📌 Projetos Práticos em Destaque
+
+- 🎓 **Sistema de Cadastro de Alunos**  
+  Aplicação para gerenciamento de alunos, com operações de cadastro, listagem, atualização e remoção, reforçando conceitos de POO, coleções e validação de dados.
+
+- 🏨 **Sistema de Gerenciamento de Pousada**  
+  Sistema para controle de hóspedes, quartos e reservas, simulando regras de negócio reais e praticando organização de camadas, lógica de domínio e persistência de dados.
+
+---
+
+## 🚀 Objetivo Profissional
 
 Atualmente busco:
+- Estágio em Backend / Java  
+- Projetos práticos para consolidar conhecimento  
+- Evolução em arquitetura, performance e segurança  
+- Explorar integrações entre backend Java e serviços/scripts em Python  
 
-* Estágio em Backend / Java
-* Projetos práticos para consolidar conhecimento
-* Evolução em arquitetura, performance e segurança
-* Explorar **integrações entre backend Java e serviços/scripts em Python**
+---
 
-⭐ Se algum projeto te ajudar, considere deixar uma estrela
+⭐ Se algum projeto te ajudar, considere deixar uma estrela  
 🤝 Aberto a colaborações, aprendizado e novos desafios
