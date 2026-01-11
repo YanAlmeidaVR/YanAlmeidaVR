@@ -1,6 +1,6 @@
 ## Olá 👋, eu sou Yan Almeida
 
-🚀 **Estudante de Engenharia de Software | Backend Developer em formação (Java)**
+**Estudante de Engenharia de Software | Backend Developer em formação (Java)**
 
 Sou estudante de Engenharia de Software no Inatel, com foco em desenvolvimento backend, arquitetura de sistemas e boas práticas de código. Tenho interesse em construir APIs escaláveis, sistemas bem estruturados e soluções orientadas a negócio.
 
