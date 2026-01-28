@@ -43,13 +43,10 @@ Busco evoluir constantemente em **Java, Spring Boot, bancos de dados e arquitetu
 ---
 
 ## 📌 Projetos Práticos em Destaque
-
 - 🎓 **Sistema de Cadastro de Alunos**  
   Aplicação para gerenciamento de alunos, com operações de cadastro, listagem, atualização e remoção, reforçando conceitos de POO, coleções e validação de dados.
-
-- 🏨 **Sistema de Gerenciamento de Pousada**  
-  Sistema para controle de hóspedes, quartos e reservas, simulando regras de negócio reais e praticando organização de camadas, lógica de domínio e persistência de dados.
-
+- 🏨 **Aconchega API — Gestão de Hospedagem**  
+  API REST completa para gerenciamento de pousadas com Spring Boot 3. Controle de hóspedes, quartos e reservas com ciclo completo de check-in/out, processamento de pagamentos e métricas operacionais. Arquitetura em camadas, validações robustas e testes automatizados.
 ---
 
 ## 🚀 Objetivo Profissional
