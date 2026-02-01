@@ -9,14 +9,14 @@ Busco evoluir constantemente em **Java, Spring Boot, bancos de dados e arquitetu
 
 ## 🧠 O que eu faço
 
-- 🧩 Desenvolvimento backend com Java  
-- 🏗️ Construção de APIs REST  
-- 📐 Aplicação de princípios de POO e Clean Code  
-- 🔐 Autenticação, autorização e segurança em nível introdutório  
-- 🗄️ Integração com bancos de dados relacionais  
-- 🐳 Noções de Docker e deploy  
-- 🐍 Desenvolvimento com Python para scripts utilitários e apoio a sistemas backend  
-- 🎓 Aprendizado contínuo e projetos acadêmicos/práticos  
+-  Desenvolvimento backend com Java  
+-  Construção de APIs REST  
+-  Aplicação de princípios de POO e Clean Code  
+-  Autenticação, autorização e segurança em nível introdutório  
+-  Integração com bancos de dados relacionais  
+-  Noções de Docker e deploy  
+-  Desenvolvimento com Python para scripts utilitários e apoio a sistemas backend  
+-  Aprendizado contínuo e projetos acadêmicos/práticos  
 
 ---
 
@@ -27,14 +27,14 @@ Busco evoluir constantemente em **Java, Spring Boot, bancos de dados e arquitetu
 - Spring Boot  
 - JPA / Hibernate  
 
-### 🐍 Python
+###  Python
 - Python (scripts e suporte a sistemas backend)
 
-### 🗄 Banco de Dados
+### Banco de Dados
 - PostgreSQL  
 - MySQL  
 
-### 🧰 Ferramentas & DevOps
+### Ferramentas & DevOps
 - Git  
 - Docker  
 - Postman  
@@ -43,13 +43,13 @@ Busco evoluir constantemente em **Java, Spring Boot, bancos de dados e arquitetu
 ---
 
 ## 📌 Projetos Práticos em Destaque
-- 🎓 **Sistema de Cadastro de Alunos**  
+- **Sistema de Cadastro de Alunos**  
   Aplicação para gerenciamento de alunos, com operações de cadastro, listagem, atualização e remoção, reforçando conceitos de POO, coleções e validação de dados.
-- 🏨 **Aconchega API — Gestão de Hospedagem**  
+- **Aconchega API — Gestão de Hospedagem**  
   API REST completa para gerenciamento de pousadas com Spring Boot 3. Controle de hóspedes, quartos e reservas com ciclo completo de check-in/out, processamento de pagamentos e métricas operacionais. Arquitetura em camadas, validações robustas e testes automatizados.
 ---
 
-## 🚀 Objetivo Profissional
+## Objetivo Profissional
 
 Atualmente busco:
 - Estágio em Backend / Java  
