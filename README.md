@@ -22,7 +22,7 @@ Busco evoluir constantemente em **Java, Spring Boot, bancos de dados e arquitetu
 
 ## 🛠 Stack Tecnológica
 
-### ⚙️ Backend
+### Backend
 - Java  
 - Spring Boot  
 - JPA / Hibernate  
