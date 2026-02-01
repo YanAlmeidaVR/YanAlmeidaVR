@@ -7,7 +7,7 @@ Busco evoluir constantemente em **Java, Spring Boot, bancos de dados e arquitetu
 
 ---
 
-## 🧠 O que eu faço
+## O que eu faço
 
 -  Desenvolvimento backend com Java  
 -  Construção de APIs REST  
