@@ -1,23 +1,24 @@
 ## 👋 Olá, eu sou Yan Almeida  
 
 🎓 Estudante de Engenharia de Software — Inatel  
-💻 Desenvolvedor Backend em formação (Java)  
+💻 Desenvolvedor Backend com foco atual em Machine Learning e Ciência de Dados  
 
-Sou estudante de Engenharia de Software com foco em desenvolvimento backend, organização de sistemas e boas práticas de código.
+Sou estudante de Engenharia de Software com experiência em desenvolvimento backend utilizando Java e interesse crescente em aplicações de Inteligência Artificial, Machine Learning e Ciência de Dados.
 
-Tenho interesse em construir APIs bem estruturadas, aplicar princípios de arquitetura limpa e desenvolver soluções que resolvam problemas reais de forma eficiente e escalável. Também utilizo **Python** para desenvolvimento de scripts, automações e apoio a sistemas backend, além de estar aprofundando meus estudos em NumPy para manipulação numérica e fundamentos computacionais.
+Tenho foco na construção de APIs organizadas, aplicação de boas práticas de desenvolvimento e arquitetura de sistemas. Atualmente, também estou aprofundando meus estudos em análise de dados, computação numérica e modelos de aprendizado de máquina, buscando integrar soluções inteligentes a sistemas backend.
 
 ---
 
 ## 🚀 Áreas de Interesse
 
 - Desenvolvimento Backend com Java  
-- Arquitetura em camadas  
-- Boas práticas (Clean Code, organização modular)  
-- Modelagem de dados  
-- Integração com bancos relacionais  
-- Desenvolvimento de scripts e soluções utilitárias com Python  
-- Fundamentos de computação numérica com NumPy  
+- Arquitetura em camadas e organização de sistemas  
+- APIs REST e integração de serviços  
+- Machine Learning  
+- Ciência de Dados  
+- Computação numérica com Python e NumPy  
+- Modelagem e análise de dados  
+- Inteligência Artificial aplicada  
 - Evolução técnica contínua  
 
 ---
@@ -28,12 +29,13 @@ Tenho interesse em construir APIs bem estruturadas, aplicar princípios de arqui
 - Java  
 - Spring Boot  
 - JPA / Hibernate  
+- APIs REST  
 
-### Python
+### Ciência de Dados & Machine Learning
 - Python  
-- NumPy (em aprendizado)  
-- Desenvolvimento de scripts  
-- Integração com sistemas backend  
+- NumPy  
+- Pandas  
+- Scikit-learn (em aprendizado)  
 
 ### Banco de Dados
 - PostgreSQL  
@@ -44,8 +46,9 @@ Tenho interesse em construir APIs bem estruturadas, aplicar princípios de arqui
 - Docker  
 - Postman  
 - IntelliJ IDEA  
+- Jupyter Notebook  
 
----
+--
 
 ## 📌 Projetos em Destaque
 
@@ -54,17 +57,17 @@ API REST desenvolvida com Spring Boot 3, utilizando arquitetura em camadas e apl
 Inclui gerenciamento de hóspedes, reservas e controle operacional.
 
 ### 🔹 Sistema de Cadastro de Alunos  
-Projeto acadêmico focado em reforçar conceitos de Programação Orientada a Objetos, organização modular e manipulação de dados.
+Projeto acadêmico focado em Programação Orientada a Objetos, organização modular e manipulação de dados.
 
 ---
 
 ## 🎯 Objetivo Atual
 
-- Consolidar base sólida em backend com Java  
-- Evoluir em arquitetura e organização de sistemas  
-- Desenvolver soluções técnicas utilizando Java e Python  
-- Aprofundar fundamentos matemáticos e computacionais  
-- Participar de projetos que desafiem minha capacidade analítica  
+- Evoluir tecnicamente em Machine Learning e Ciência de Dados  
+- Consolidar experiência em desenvolvimento backend com Java  
+- Integrar IA e análise de dados a sistemas backend  
+- Aprofundar fundamentos matemáticos, computacionais e analíticos  
+- Participar de projetos com impacto técnico e inovação  
 
 ---
 
