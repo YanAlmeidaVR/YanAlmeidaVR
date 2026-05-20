@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou Yan Almeida  
 
-🎓 Estudante de Engenharia de Software - Inatel
+🎓 Estudante de Engenharia de Software - Inatel 
 💻 Desenvolvedor Backend com foco atual em Machine Learning e Ciência de Dados  
 
 Sou estudante de Engenharia de Software com experiência em desenvolvimento backend utilizando Java e interesse crescente em aplicações de Inteligência Artificial, Machine Learning e Ciência de Dados.
